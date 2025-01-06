@@ -1,0 +1,1 @@
+<img src={`${process.env.PUBLIC_URL}/avatars/1.png`} /> 
